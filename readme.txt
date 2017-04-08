@@ -1,3 +1,3 @@
-Git is a distributed version control system.
+ï»¿Git is a distributed version control system.
 Git is free software.
-My name is ÓáÕ×·á. 
+My name is Nor.yzf.
